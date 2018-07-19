@@ -253,6 +253,7 @@ p.footer__social_icons a:hover{
 .........................*/
 
 
+
 @media (max-width: 1160px) {
     
     .container{
@@ -271,8 +272,25 @@ p.footer__social_icons a:hover{
     }
     
 
+    .header_title{
+font-size: 120px;
+    }
     
     
+    .header_slogan{
+        
+    font-size: 60px;
+        line-height: 70px;
+    }
+    
+    .container{
+        font-size: 30px
+    }
+    .portfolio-item_title{
+        
+        font-size: 35px;
+        
+    }
 }
 
 
